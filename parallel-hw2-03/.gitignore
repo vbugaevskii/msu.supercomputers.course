@@ -1,0 +1,8 @@
+.idea
+cmake-build-debug
+cmake_install.cmake
+CMakeFiles
+CMakeCache.txt
+main
+*.cbp
+.ipynb_checkpoints
